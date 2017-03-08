@@ -1,0 +1,28 @@
+{
+  "ProjectName": "coolApp",
+  "ProjectGuid": "4f082eab-3ec1-410b-8405-a1b15f98242a",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.coolApp",
+  "DisplayName": "coolApp",
+  "Author": "",
+  "Description": "coolApp",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.5.0",
+  "Framework": "NativeScript"
+}
